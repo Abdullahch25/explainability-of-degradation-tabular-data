@@ -1,0 +1,14 @@
+task_id,dataset_id,name,n_instances,n_features,missing_pct,n_classes,size
+37,37,diabetes,768.0,9.0,0.0,2.0,small
+53,54,vehicle,846.0,19.0,0.0,4.0,small
+31,31,credit-g,1000.0,21.0,0.0,2.0,small
+9957,1494,qsar-biodeg,1055.0,42.0,0.0,2.0,small
+23,23,cmc,1473.0,10.0,0.0,3.0,small
+146822,40984,segment,2310.0,20.0,0.0,7.0,medium
+9978,1487,ozone-level-8hr,2534.0,73.0,0.0,2.0,medium
+43,44,spambase,4601.0,58.0,0.0,2.0,medium
+9952,1489,phoneme,5404.0,6.0,0.0,2.0,medium
+2074,182,satimage,6430.0,37.0,0.0,6.0,medium
+14965,1461,bank-marketing,45211.0,17.0,0.0,2.0,large
+219,151,electricity,45312.0,9.0,0.0,2.0,large
+146195,40668,connect-4,67557.0,43.0,0.0,3.0,large

@@ -1,0 +1,14 @@
+name,n_train,n_classes,imbalanced,class_weight,model_path,status
+diabetes,614,2,False,None,models/diabetes_rf.pkl,ok
+vehicle,676,4,False,None,models/vehicle_rf.pkl,ok
+credit-g,800,2,False,None,models/credit-g_rf.pkl,ok
+qsar-biodeg,844,2,False,None,models/qsar-biodeg_rf.pkl,ok
+cmc,1178,3,False,None,models/cmc_rf.pkl,ok
+segment,1848,7,True,balanced,models/segment_rf.pkl,ok
+ozone-level-8hr,2027,2,True,balanced,models/ozone-level-8hr_rf.pkl,ok
+spambase,3680,2,False,None,models/spambase_rf.pkl,ok
+phoneme,4323,2,False,None,models/phoneme_rf.pkl,ok
+satimage,5144,6,True,balanced,models/satimage_rf.pkl,ok
+bank-marketing,36168,2,True,balanced,models/bank-marketing_rf.pkl,ok
+electricity,36249,2,False,None,models/electricity_rf.pkl,ok
+connect-4,54045,3,True,balanced,models/connect-4_rf.pkl,ok

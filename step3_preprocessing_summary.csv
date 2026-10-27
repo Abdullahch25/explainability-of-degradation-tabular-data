@@ -1,0 +1,14 @@
+name,n_train,n_test,n_num_cols,n_cat_cols,n_features_out,n_classes,minority_pct,imbalanced,status
+diabetes,614,154,8,0,8,2,34.9,False,ok
+vehicle,676,170,18,0,18,4,23.5,False,ok
+credit-g,800,200,7,13,61,2,30.0,False,ok
+qsar-biodeg,844,211,41,0,41,2,33.7,False,ok
+cmc,1178,295,9,0,9,3,22.6,False,ok
+segment,1848,462,16,0,16,7,14.3,True,ok
+ozone-level-8hr,2027,507,72,0,72,2,6.3,True,ok
+spambase,3680,921,57,0,57,2,39.4,False,ok
+phoneme,4323,1081,5,0,5,2,29.3,False,ok
+satimage,5144,1286,36,0,36,6,9.7,True,ok
+bank-marketing,36168,9043,7,9,51,2,11.7,True,ok
+electricity,36249,9063,8,0,8,2,42.5,False,ok
+connect-4,54045,13512,42,0,42,3,9.5,True,ok

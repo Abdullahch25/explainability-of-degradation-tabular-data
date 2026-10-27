@@ -1,0 +1,10 @@
+﻿openml==0.15.1
+pandas==2.3.3
+numpy==2.4.1
+scikit-learn==1.8.0
+shap==0.52.0
+jenga==0.0.1a1
+scipy==1.17.0
+matplotlib==3.10.8
+seaborn==0.13.2
+ipykernel==7.1.0

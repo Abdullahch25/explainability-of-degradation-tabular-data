@@ -1,0 +1,14 @@
+name,n_features,n_shap_rows,top1,top2,top3
+diabetes,8,154,num__plas,num__mass,num__age
+vehicle,18,170,num__MAX.LENGTH_ASPECT_RATIO,num__SCALED_VARIANCE_MINOR,num__ELONGATEDNESS
+credit-g,61,200,cat__checking_status_no checking,cat__checking_status_<0,num__duration
+qsar-biodeg,41,211,num__V36,num__V39,num__V1
+cmc,9,295,num__Number_of_children_ever_born,num__Wifes_age,num__Wifes_education
+segment,16,462,num__hue.mean,num__exgreen.mean,num__rawred.mean
+ozone-level-8hr,72,500,num__V56,num__V41,num__V40
+spambase,57,500,num__char_freq_%21,num__char_freq_%24,num__word_freq_remove
+phoneme,5,500,num__V4,num__V3,num__V1
+satimage,36,500,num__F12attr,num__E11attr,num__D16attr
+bank-marketing,51,500,num__V12,num__V6,num__V1
+electricity,8,500,num__nswprice,num__date,num__period
+connect-4,42,500,num__a1,num__g1,num__d1

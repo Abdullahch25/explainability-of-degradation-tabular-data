@@ -1,0 +1,14 @@
+name,dataset_id,task_id,n_rows,n_features,n_missing,missing_pct,n_classes,n_cat_features,target_col,saved_to,status
+diabetes,37,37,768,8,0,0.0,2,0,class,data/raw\diabetes.csv,ok
+vehicle,54,53,846,18,0,0.0,4,0,Class,data/raw\vehicle.csv,ok
+credit-g,31,31,1000,20,0,0.0,2,13,class,data/raw\credit-g.csv,ok
+qsar-biodeg,1494,9957,1055,41,0,0.0,2,0,Class,data/raw\qsar-biodeg.csv,ok
+cmc,23,23,1473,9,0,0.0,3,7,Contraceptive_method_used,data/raw\cmc.csv,ok
+segment,40984,146822,2310,16,0,0.0,7,0,class,data/raw\segment.csv,ok
+ozone-level-8hr,1487,9978,2534,72,0,0.0,2,0,Class,data/raw\ozone-level-8hr.csv,ok
+spambase,44,43,4601,57,0,0.0,2,0,class,data/raw\spambase.csv,ok
+phoneme,1489,9952,5404,5,0,0.0,2,0,Class,data/raw\phoneme.csv,ok
+satimage,182,2074,6430,36,0,0.0,6,0,class,data/raw\satimage.csv,ok
+bank-marketing,1461,14965,45211,16,0,0.0,2,9,Class,data/raw\bank-marketing.csv,ok
+electricity,151,219,45312,8,0,0.0,2,1,class,data/raw\electricity.csv,ok
+connect-4,40668,146195,67557,42,0,0.0,3,42,class,data/raw\connect-4.csv,ok

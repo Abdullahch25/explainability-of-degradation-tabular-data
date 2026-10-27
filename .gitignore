@@ -1,0 +1,46 @@
+# ── Large data files (regenerable) ────────────────────────────────────────────
+data/corrupted/
+data/processed/
+data/raw/
+data/preprocessors/
+
+# ── Trained model files (regenerable) ─────────────────────────────────────────
+models/
+step11_models.pkl
+
+# ── Generated figures (regenerable by running results_visualization.ipynb) ────
+report_figures/
+
+# ── SHAP CSVs (regenerable from step6) ────────────────────────────────────────
+shap/
+
+# ── Temporary helper scripts (session-only utilities) ─────────────────────────
+extract_pptx.py
+verify_numbers.py
+
+# ── Internal/dev files not needed for reproducibility ─────────────────────────
+generate_notebook.py
+generate_pipeline_diagram.py
+get_stats.py
+PROGRESS.md
+Project Workflow (1).docx
+
+# ── Report and presentation ────────────────────────────────────────────────────
+*.pdf
+*.pptx
+*.docx
+
+# ── Python cache ───────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ── Jupyter checkpoints ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── OS / editor noise ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

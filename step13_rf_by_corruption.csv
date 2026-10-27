@@ -1,0 +1,8 @@
+corruption_type,rmse,r2,pearson_r,n
+extreme_values,0.03944,0.6469,0.8441,117
+gaussian_noise,0.01817,0.8046,0.8971,111
+missing_mar,0.022,0.7512,0.8685,117
+missing_mcar,0.01503,0.8607,0.9304,117
+missing_mnar,0.02075,0.6484,0.8952,117
+scaling,0.02202,0.5649,0.8108,111
+value_swap,0.03438,0.6602,0.8538,117

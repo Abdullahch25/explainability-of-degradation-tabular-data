@@ -70,3 +70,4 @@ Then open `results_visualization.ipynb` to regenerate the figures (saved to `rep
 Notes:
 - Steps 1–2 download the datasets from OpenML, so an internet connection is needed.
 - The generated data and models take about 1.7 GB of disk space.
+- Step 8 uses unseeded randomness in Jenga's Gaussian noise, so rerunning the pipeline gives slightly different numbers. The overall results stay the same.
